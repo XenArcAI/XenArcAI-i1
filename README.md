@@ -10,7 +10,7 @@
 
 ## 🌟 Overview
 
-**Xenith** is a cutting-edge transformer model engineered by the team at xAI for unparalleled performance in text classification and beyond. Combining a robust Mixture of Experts (MoE) architecture, efficient attention mechanisms, and specialized support for large contexts and multilingual capabilities (like Hinglish), Xenith is optimized for TPUs and designed to push the boundaries of modern AI.
+**Xenith** is a cutting-edge transformer model engineered by the team at XenArcAI for unparalleled performance in text classification and beyond. Combining a robust Mixture of Experts (MoE) architecture, efficient attention mechanisms, and specialized support for large contexts and multilingual capabilities (like Hinglish), Xenith is optimized for TPUs and designed to push the boundaries of modern AI.
 
 ### Key Features
 - **Large Context Handling**: Supports sequences up to 32,768 tokens with advanced chunking and summarization.
@@ -183,7 +183,7 @@ Xenith is licensed under the MIT License. See `LICENSE` for more information.
 
 ## 🌍 Community
 
-Join the xAI community:
+Join the XenArcAI community:
 - **Twitter**: Follow us for updates! (Insert handle)
 - **Discord**: Chat with fellow AI enthusiasts! (Insert invite)
 - **Issues**: Report bugs or request features here on GitHub.
@@ -192,7 +192,7 @@ Join the xAI community:
 
 ## ✨ Acknowledgments
 
-- Built with ❤️ by the xAI team.
+- Built with ❤️ by the XenArcAI team.
 - Inspired by advancements in transformer architectures and MoE research.
 - Special thanks to the open-source community for tools like PyTorch, Hugging Face, and IndicNLP.
 
