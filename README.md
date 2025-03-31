@@ -198,7 +198,7 @@ Join the XenArcAI community:
 
 ---
 
-*Xenith v2.0.0 "Beast" - Released March 29, 2025* 
+*Xenith i1.0.0 "Beast" - Released March 29, 2025* 
 *Powering the future of AI, one token at a time.*
 
 ---
