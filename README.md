@@ -14,7 +14,7 @@
 
 ### Key Features
 - **Large Context Handling**: Supports sequences up to 131,680 tokens with advanced chunking and summarization.
-- **Mixture of Experts (MoE)**: Dynamically routes tokens to 64 experts, activating 8 per token for efficiency and power.
+- **Mixture of Experts (MoE)**: Dynamically routes tokens to 324 experts, activating 16 per token for efficiency and power.
 - **Efficient Attention**: Sparse and full attention options, with dynamic window sizing for optimal performance.
 - **Hinglish Support**: Seamlessly processes mixed Hindi-English text with a combined tokenizer.
 - **TPU Optimization**: Ready for PyTorch XLA, ensuring lightning-fast training and inference.
