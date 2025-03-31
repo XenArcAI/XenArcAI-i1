@@ -13,7 +13,7 @@
 **Xenith** is a cutting-edge transformer model engineered by the team at XenArcAI for unparalleled performance in text classification and beyond. Combining a robust Mixture of Experts (MoE) architecture, efficient attention mechanisms, and specialized support for large contexts and multilingual capabilities (like Hinglish), Xenith is optimized for TPUs and designed to push the boundaries of modern AI.
 
 ### Key Features
-- **Large Context Handling**: Supports sequences up to 32,768 tokens with advanced chunking and summarization.
+- **Large Context Handling**: Supports sequences up to 131,680 tokens with advanced chunking and summarization.
 - **Mixture of Experts (MoE)**: Dynamically routes tokens to 64 experts, activating 8 per token for efficiency and power.
 - **Efficient Attention**: Sparse and full attention options, with dynamic window sizing for optimal performance.
 - **Hinglish Support**: Seamlessly processes mixed Hindi-English text with a combined tokenizer.
