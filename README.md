@@ -4,7 +4,7 @@
 # Xenith: A High-Performance Transformer Model
 
 ![Xenith Banner](https://via.placeholder.com/1200x300.png?text=Xenith+-+The+Beast+of+Transformers)  
-*Unleash the Power of Advanced AI with Xenith v2.0.0 ("Beast")*
+*Unleash the Power of Advanced AI with Xenith i1.0.0 ("Beast")*
 
 ---
 
@@ -198,7 +198,7 @@ Join the XenArcAI community:
 
 ---
 
-*Xenith v2.0.0 "Beast" - Released March 29, 2025*  
+*Xenith v2.0.0 "Beast" - Released March 29, 2025* 
 *Powering the future of AI, one token at a time.*
 
 ---
